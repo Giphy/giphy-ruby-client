@@ -1,0 +1,18 @@
+{
+
+	"sortParamsByRequiredFlag": true,
+	"ensureUniqueParams": true,
+	"allowUnicodeIdentifiers": true,
+	"gemName": "GiphyClient",
+	"moduleName": "GiphyClient",
+	"gemVersion": "1.0.0",
+	"gemLicense": "MIT",
+	"gemHomepage": "https://github.com/Giphy/giphy-ruby-client",
+	"gemSummary": "Networking client for the Giphy API.",
+
+	"__gemDescription": "",
+	"__gemRequiredRubyVersion": "",
+	"__gemAuthor": "",
+	"__gemAuthorEmail": "",
+	"__hideGenerationTimestamp": ""
+}
