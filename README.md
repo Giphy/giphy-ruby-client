@@ -150,8 +150,3 @@ Class | Method | HTTP request | Description
  - [GiphyClient::TrendingTag](docs/TrendingTag.md)
  - [GiphyClient::User](docs/User.md)
 
-
-## Documentation for Authorization
-
- All endpoints do not require authorization.
-
