@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/Giphy/giphy-ruby-client"
   s.summary     = "Networking client for the Giphy API."
   s.description = "Giphy's public api."
-  s.license     = "MIT"
+  s.license     = "MPLv2"
   s.required_ruby_version = ">= 1.9"
 
   s.add_runtime_dependency 'typhoeus', '~> 1.0', '>= 1.0.1'
