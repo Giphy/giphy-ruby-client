@@ -236,7 +236,7 @@ No authorization required
 
 
 # **gifs_gif_id_get**
-> InlineResponse2001 gifs_gif_id_get(api_keygif_id)
+> InlineResponse2001 gifs_gif_id_get(api_key, gif_id)
 
 Get GIF by ID Endpoint
 
@@ -256,7 +256,7 @@ gif_id = "gif_id_example" # String | Filters results by specified GIF ID.
 
 begin
   #Get GIF by ID Endpoint
-  result = api_instance.gifs_gif_id_get(api_keygif_id)
+  result = api_instance.gifs_gif_id_get(api_key, gif_id)
   p result
 rescue GiphyClient::ApiError => e
   puts "Exception when calling DefaultApi->gifs_gif_id_get: #{e}"
